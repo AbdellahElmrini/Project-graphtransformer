@@ -1,4 +1,4 @@
-Please refer to (.instructions.md) for details about our work
+Please refer to [This File](.instructions.md) for details about our work
 
 # Graph Transformer Architecture
 
