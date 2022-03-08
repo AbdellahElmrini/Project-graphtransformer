@@ -31,7 +31,7 @@ How to reproduce our results :
   17) modify the same file to reduce the number of layers (the parameter L) from 10 to 3 in line 26.
   18) launch the training following the "TRAINING THE MODEL" procedure above
   
-  Remarks : 
+## Remarks : 
     - The code for the baseline spectral clustering and comparison with our model is in the root directory : baselineComp.ipynb
     - The code tweak we mentioned in the presentation to relieve the bottleneck in data loading is in data/SBMs.py line 47 (you can compare with data/SBMs_old.py)
     - A json file with all our test results (374 tests) is located in out/SBMs_sparse_LapPE_BN/results : comparison_v0.json
